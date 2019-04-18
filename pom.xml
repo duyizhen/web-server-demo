@@ -31,5 +31,12 @@
             <version>1.2</version>
         </dependency>
         <!--jstl标签依赖的jar包end -->
+        <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-servlet-api -->
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-servlet-api</artifactId>
+            <version>9.0.19</version>
+        </dependency>
+
     </dependencies>
 </project>
